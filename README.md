@@ -1,6 +1,7 @@
 # Goal: View NightScout BG Readings on Fitbit Ionic
 
-## Plan
+### Plan
+**IN PROGRESS**
 - Show API call on watch face
 - Format information for Ionic watch face
 - Allow settings within app to specify NightScout endpoint per patient

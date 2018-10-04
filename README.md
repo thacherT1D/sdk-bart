@@ -1,4 +1,6 @@
-# Goal: View NightScout BG Readings on Fitbit Ionic
+# NightScout App for Fitbit Ionic
+
+### Objective: View NightScout BG Readings on Fitbit Ionic
 
 ### Plan **IN PROGRESS**
 **Phase 1**
